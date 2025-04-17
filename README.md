@@ -1,2 +1,2 @@
-# pc-login-statistics
+# PC Login Statistics
 PC login tracker.
