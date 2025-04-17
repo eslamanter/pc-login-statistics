@@ -1,0 +1,16 @@
+bin\Debug\PC LogIn Statistics.exe.config
+bin\Debug\PC LogIn Statistics.exe
+bin\Debug\PC LogIn Statistics.pdb
+bin\Debug\PC LogIn Statistics.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PC_LogIn_Statistics.Form1.resources
+obj\Debug\PC_LogIn_Statistics.Form2.resources
+obj\Debug\PC_LogIn_Statistics.Resources.resources
+obj\Debug\PC LogIn Statistics.vbproj.GenerateResource.Cache
+obj\Debug\PC LogIn Statistics.exe
+obj\Debug\PC LogIn Statistics.xml
+obj\Debug\PC LogIn Statistics.pdb
+bin\Debug\PC LogIn Statistics.exe.manifest
+bin\Debug\PC LogIn Statistics.application
+obj\Debug\PC LogIn Statistics.exe.manifest
+obj\Debug\PC LogIn Statistics.application
